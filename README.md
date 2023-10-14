@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gavin
-- 👀 I’m an anthropology graduate student interested in the intersections of political economy and public health
+- 👀 I’m an anthropology graduate student at Memorial University of Newfoundland interested in the intersections of political economy and public health
 - 🌱 I’m currently learning the basics of coding
 - 📫 Reach me at: gwbabcock@mun.ca
 
